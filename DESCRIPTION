@@ -16,3 +16,5 @@ Imports:
     readxl,
     RSQLite,
     stringr
+URL: https://github.com/AlexB4891/navigateData
+BugReports: https://github.com/AlexB4891/navigateData/issues
